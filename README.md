@@ -1,6 +1,6 @@
 # 📝 TodoList with Drag & Drop
 
-A simple and interactive **TodoList** application that allows users to **add**, **edit**, **delete**, and **reorder tasks** using drag-and-drop functionality. Users can also move tasks between the **Active** and **Completed** sections.
+A simple and interactive **TodoList** application that allows users to **add**, **edit**, **delete**, **reorder tasks** and **move tasks** using drag-and-drop functionality. Users can also move tasks between the **Active** and **Completed** sections.
 
 ## Features
 
